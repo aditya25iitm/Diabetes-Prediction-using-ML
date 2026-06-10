@@ -8,24 +8,6 @@
 > An end-to-end machine learning pipeline for early diabetes detection using the PIMA Indians Diabetes Dataset. Achieves **88.96% test accuracy** and **AUC of 0.9539** — a significant uplift from the baseline SVM model (77.3% accuracy, AUC 0.79).
 
 ---
-
-## 📋 Table of Contents
-
-- [Problem Statement](#problem-statement)
-- [Dataset Overview](#dataset-overview)
-- [Project Structure](#project-structure)
-- [Setup & Installation](#setup--installation)
-- [Pipeline Overview](#pipeline-overview)
-- [Feature Engineering](#feature-engineering)
-- [Models & Results](#models--results)
-- [Performance Comparison](#performance-comparison)
-- [Key Visualizations](#key-visualizations)
-- [How to Run](#how-to-run)
-- [Predictive System](#predictive-system)
-- [Conclusion](#conclusion)
-
----
-
 ## 🎯 Problem Statement
 
 Diabetes is a chronic metabolic disorder affecting millions worldwide. Early detection is critical to prevent complications such as cardiovascular disease, neuropathy, and kidney failure. This project builds a binary classification model to predict whether a patient is diabetic based on routine diagnostic measurements.
